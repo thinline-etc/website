@@ -271,7 +271,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink .navbar-brand {
         display: block;
-        background-image: url('/thinline//img/logos/thin_line_logo_2.png');
+        background-image: url('/website/img/logos/thin_line_logo_2.png');
         width: 100px;
         background-repeat: no-repeat;
     }
@@ -286,7 +286,7 @@ header {
     background: linear-gradient(
                      rgba(0,0,0, .7),
                      rgba(0,0,0, .7)),
-                     url('/thinline//img/header-bg.png');
+                     url('/website/img/header-bg.png');
 
     background-position: center center;
     background-repeat: none;
@@ -294,6 +294,12 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+.subpage {
+    background: none;
+    background-color: #222;
+
 }
 
 header .intro-text {

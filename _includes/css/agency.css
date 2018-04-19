@@ -288,6 +288,12 @@ header {
     -o-background-size: cover;
 }
 
+.subpage {
+    background: none;
+    background-color: #222;
+
+}
+
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
