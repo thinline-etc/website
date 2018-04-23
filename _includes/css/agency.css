@@ -392,7 +392,7 @@ section h3.section-subheading {
     content: "";
     position: absolute;
     top: 0;
-    bottom: 250px;
+    bottom: 170px;
     left: 40px;
     width: 2px;
     margin-left: -1.5px;
@@ -656,6 +656,8 @@ section#contact .text-danger {
 footer {
     padding: 25px 0;
     text-align: center;
+    background-color: #222;
+    color: #fff;
 }
 
 footer span.copyright {
@@ -663,6 +665,7 @@ footer span.copyright {
     text-transform: none;
     font-family: {{ site.data.template.font.primary }};
     line-height: 40px;
+
 }
 
 footer ul.quicklinks {
