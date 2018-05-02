@@ -1,7 +1,7 @@
 
 root: /
-baseurl: /website
-url: http://thinline-etc.github.io
+baseurl: ""
+url: http://www.thinlinevr.com
 
 # Site settings
 title: Thin Line
